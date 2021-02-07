@@ -18,3 +18,5 @@
 ![](images/n_five_star.png)
 
 - As previously mentioned, with there being 0 Vine reviews, 0% of the five-star rating were Vine reviews. Therefore, 100% of the 5-star rating were non-Vine reviews.
+
+![](images/updated_percent_n_vine.png)
