@@ -11,6 +11,10 @@
 
 ![](images/y_n_vine.png)
 
-- There was a total of 80,677 5-star ratings from the Amazon reviews of U.S. Video Games. All of those 80,677 5-star ratings were non-Vine.
+- There was a total of 80,677 5-star ratings from the Amazon reviews of U.S. Video Games. All of those 80,677 5-star ratings were non-Vine. Images below depict this analysis.
+
+![](images/five_star_rating.png)
+
+![](images/n_five_star.png)
 
 - As previously mentioned, with there being 0 Vine reviews, 0% of the five-star rating were Vine reviews. Therefore, 100% of the 5-star rating were non-Vine reviews.
