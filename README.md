@@ -20,3 +20,12 @@
 - As previously mentioned, with there being 0 Vine reviews, 0% of the five-star rating were Vine reviews. Therefore, 100% of the 5-star rating were non-Vine reviews.
 
 ![](images/updated_percent_n_vine.png)
+
+##Summary
+
+- From what I have learned from this challenge and the dataset I had analyzed, positivity bias for reviews in the Vine program can exist even when there are no Vine(paid) user reviews. The Amazon Reviews for U.S. Video Games dataset upon analysis revealed how the possibility of there being only 'N' or "No" non-Vine(unpaid) user reviews can steer positivity bias towards the glorious 5-star rating. From the image below, the audience can see that with there being only non-Vine user(unpaid) reviews, 5-star ratings had the most at 80,677. 1-star ratings came in with the second fewest selecting that option with 24,970. Therefore, it seems users on an unpaid Vine program generally rated favorably with 5-star ratings. This analysis is skewed due to there miraculously being no Vine (paid) user reviews, but this nonetheless show a positivity bias as the 80,677 out of 145,431 reviews were 5-star ratings, thats nearly 55% of the reviews. 
+![](images/rating_in_order.png)
+
+- An additional analysis that I could've done to support my statement was possibly taking into account another column in the dataset, such as the "Verified_purchase" column. Having this column data included into the filter function, could have potentially extracted more diverse calculations as there isn't just a 'N' variable but also a 'Y' variable present. This analysis could have potentially reduced the positivity bias. 
+
+![](images/updated_verified_purchase.png)
